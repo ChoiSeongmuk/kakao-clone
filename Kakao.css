@@ -140,10 +140,11 @@ p {
 }
 .enter {
     margin-top: 10px;
+    margin-right: 15px;
     right: 10px;
     bottom: 10px;
-    width: 64px;
-    height: 64px;
+    width: 82px;
+    height: 10%;
     border: 1px solid rgb(236, 236, 236);
     border-radius: 5px;
     text-align: center;
